@@ -1,5 +1,7 @@
 # cursor-rules-powerful
 
+[English](README.md) | [中文](README.CN.md)
+
 This repository collects a set of highly practical and global rules, making Cursor IDE truly intelligent and preventing it from becoming "dumbed down". With these rules, Cursor can act as a real AI agent. All rules are designed for global effect and easy integration.
 
 ## Background & Purpose
