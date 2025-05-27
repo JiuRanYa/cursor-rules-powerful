@@ -15,7 +15,7 @@
 
 ## 列表
 
-- `RIPER-5 + MULTIDIMENSIONAL THINKING + AGENT EXECUTION PROTOCOL.md` — 核心协议文档
+- [多维思考+五大规则模式](https://github.com/JiuRanYa/cursor-rules-powerful/blob/main/RIPER5.txt)
 
 ## 贡献
 欢迎贡献！请提交 issue 或 pull request 来帮助改进协议或其文档。
